@@ -31,7 +31,9 @@ Below are the end points
 
 To run this api need to do following
 
-1)Database connection to be change in MunicipalityDataContext.cs
+1)Run the database scripts from the following https://github.com/satyasuresh-source/SQLScripts
+
+2)Database connection to be change in MunicipalityDataContext (Todo:need to move this to configuration file)
 
 
 
