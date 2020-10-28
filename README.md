@@ -37,15 +37,15 @@ To run this api need to do following
 
 Assumptions
 
-Created Middleware Component for exception handling
+1)Created Middleware Component for exception handling
 
-Serial Log for Logging 
+2)Serial Log for Logging 
 
-Custom attribute for date validation
+3)Custom attribute for date validation
 
-Filter used for Model Validations 
+4)Filter used for Model Validations 
 
-Used EF Core Code first approach
+5)Used EF Core Code first approach
 
 
 
