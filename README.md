@@ -10,7 +10,6 @@ Below are the end points
 
 1)  Created an API to Upload Tax Details for Municipalities (It will support two different formats of files CSV and EXCEL)
 
-
  /api/FileAccess/DocumentUpload
   
 
@@ -34,6 +33,17 @@ To run this api need to do following
 1)Run the database scripts from the following https://github.com/satyasuresh-source/SQLScripts
 
 2)Database connection to be change in MunicipalityDataContext (Todo:need to move this to configuration file)
+
+
+Assumptions
+
+Created Middleware Component for exception handling
+Serial Log for Logging 
+Custom attribute for date validation
+Filter used for Model Validations 
+EF Core Code first approach
+
+
 
 
 
