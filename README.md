@@ -8,7 +8,7 @@ Technology Used ASP.NET Core WEB API 3.1, EF Core, SQL-2019
 Below are the end points
 
 
-1)  Created an API to Upload Tax Detailsfor Municipalities (It will support two different formats of files will CSV and EXCEL)
+1)  Created an API to Upload Tax Details for Municipalities (It will support two different formats of files will CSV and EXCEL)
 
 
  /api/FileAccess/DocumentUpload
