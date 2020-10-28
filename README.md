@@ -38,10 +38,14 @@ To run this api need to do following
 Assumptions
 
 Created Middleware Component for exception handling
+
 Serial Log for Logging 
+
 Custom attribute for date validation
+
 Filter used for Model Validations 
-EF Core Code first approach
+
+Used EF Core Code first approach
 
 
 
