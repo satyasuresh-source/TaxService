@@ -20,14 +20,22 @@ Below are the end points
 /api/Tax/GetTaxDetails
 
 
-3) Create an API to Save the Tax Details for a Municipality
+3) Created an API to Save the Tax Details for a Municipality
 
 /api/Tax/Save
 
 
-4) Create an API to Update the Tax Details for a Municipality
+4) Created an API to Update the Tax Details for a Municipality
 
 /api/Tax/Update
+
+To run this api need to do following
+
+1)Database connection to be change in MunicipalityDataContext.cs
+
+
+
+
 
 
 
