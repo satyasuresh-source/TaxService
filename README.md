@@ -43,7 +43,7 @@ Assumptions
 
 3)Custom attribute for date validation
 
-4)Filter used for Model Validations 
+4)Filters used for Model Validations 
 
 5)Used EF Core Code first approach
 
